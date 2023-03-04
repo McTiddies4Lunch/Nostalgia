@@ -1,0 +1,38 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Nostalgia",
+    "description": "Nostalgia is a modpack heavily inspired by the original games from Interplay, from wacky new adventures, to an older style UI. However it still maintains a lot of modern aspects as well. And optionally NVR",
+    "author": "<McTiddies4Lunch>",
+    "maintainers": [
+      "github/<McTiddies4Lunch>"
+    ],
+    "game": "falloutnewvegas",
+    "tags": [
+      "testing",
+      "<"
+    ],
+    "nsfw": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "<https://i.gyazo.com/e93ce9ac3a551f17c8d33b2e71468ecd.jpg>",
+      "readme": "<https://github.com/McTiddies4Lunch/Nostalgia/wiki>",
+      "download": "https://authored-files.wabbajack.org/Nostalgia.wabbajack_7b86fc91-0803-4fb2-9505-875741073d58",
+      "machineURL": "machineURL",
+      "discordURL": "<https://discord.gg/Mu3RQbzxyz>"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "uEaEeT214J0=",
+      "Size": 0,
+      "NumberOfArchives": 833,
+      "SizeOfArchives": 64393458192,
+      "NumberOfInstalledFiles": 88161,
+      "SizeOfInstalledFiles": 97423406347
+    },
+    "version": "0.5"
+  }
+]
+
