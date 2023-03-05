@@ -18,18 +18,18 @@
     "links": {
       "image": "<https://i.gyazo.com/e93ce9ac3a551f17c8d33b2e71468ecd.jpg>",
       "readme": "<https://github.com/McTiddies4Lunch/Nostalgia/wiki>",
-      "download": "https://authored-files.wabbajack.org/Nostalgia.wabbajack_3579b5d8-9e00-488d-8e78-0f558a269ede",
+      "download": "https://authored-files.wabbajack.org/Nostalgia.wabbajack_1b458f32-0860-4660-a5d6-c04d32ecec23",
       "machineURL": "Nostalgia",
       "discordURL": "<https://discord.gg/Mu3RQbzxyz>"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "4KW5DERqsMQ=",
-      "Size": 58741850,
+      "Hash": "lum7/EgyH2M=",
+      "Size": 58741853,
       "NumberOfArchives": 902,
       "SizeOfArchives": 34061944176,
       "NumberOfInstalledFiles": 57864,
-      "SizeOfInstalledFiles": 57203125503
+      "SizeOfInstalledFiles": 57203125506
     },
     "version": "0.6"
   }
