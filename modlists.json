@@ -19,7 +19,7 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "<https://i.gyazo.com/e93ce9ac3a551f17c8d33b2e71468ecd.jpg>",
       "readme": "<https://github.com/McTiddies4Lunch/Nostalgia/wiki>",
-      "download": "https://authored-files.wabbajack.org/Nostalgia.wabbajack_2e35ee5c-2de0-4c24-bee0-44a0903bb829",
+      "download": "https://authored-files.wabbajack.org/Nostalgia.wabbajack_625d4b26-79f7-40b3-9ed2-dbb171beadad",
       "machineURL": "Nostalgia",
       "discordURL": "<https://discord.gg/Mu3RQbzxyz>"
     },
@@ -27,10 +27,10 @@
       "$type": "DownloadMetadata, Wabbajack.Lib",
       "Hash": "uEaEeT214J0=",
       "Size": 0,
-      "NumberOfArchives": 850,
-      "SizeOfArchives": 33729518623,
-      "NumberOfInstalledFiles": 57723,
-      "SizeOfInstalledFiles": 56897665819
+      "NumberOfArchives": 848,
+      "SizeOfArchives": 33715563642,
+      "NumberOfInstalledFiles": 57668,
+      "SizeOfInstalledFiles": 56839055421
     },
     "version": "0.5"
   }
