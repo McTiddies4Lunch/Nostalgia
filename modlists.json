@@ -13,7 +13,7 @@
       "Roleplay"
     ],
     "nsfw": false,
-    "image_contains_title": true,
+    "image_contains_title": false,
     "force_down": false,
     "links": {
       "image": "<https://cdn.discordapp.com/attachments/610934257182965779/1081810174412603543/nost.png>",
