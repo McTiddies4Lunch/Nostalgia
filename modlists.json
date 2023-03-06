@@ -1,29 +1,29 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Nostalgia",
     "description": "Nostalgia is a modpack heavily inspired by the original games from Interplay, from wacky new adventures, to an older style UI. However it still maintains a lot of modern aspects as well. And optionally NVR",
-    "author": "<McTiddies4Lunch>",
+    "author": "McTiddies4Lunch",
     "maintainers": [
-      "github/<McTiddies4Lunch>"
+      "github/McTiddies4Lunch"
     ],
     "game": "falloutnewvegas",
+    "official": false,
     "tags": [
       "Overhaul",
       "Roleplay"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": false,
     "force_down": false,
     "links": {
-      "image": "<https://cdn.discordapp.com/attachments/610934257182965779/1081810174412603543/nost.png>",
-      "readme": "<https://github.com/McTiddies4Lunch/Nostalgia/wiki>",
+      "image": "https://cdn.discordapp.com/attachments/610934257182965779/1081810174412603543/nost.png",
+      "readme": "https://github.com/McTiddies4Lunch/Nostalgia/wiki",
       "download": "https://authored-files.wabbajack.org/Nostalgia.wabbajack_1b458f32-0860-4660-a5d6-c04d32ecec23",
       "machineURL": "Nostalgia",
-      "discordURL": "<https://discord.gg/Mu3RQbzxyz>"
+      "discordURL": "https://discord.gg/Mu3RQbzxyz"
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
       "Hash": "lum7/EgyH2M=",
       "Size": 58741853,
       "NumberOfArchives": 902,
