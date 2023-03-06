@@ -1,7 +1,7 @@
 [
   {
     "title": "Nostalgia",
-    "description": "Nostalgia is an original Fallout New Vegas  experience heavily inspired by the wacky nature of the original interplay Fallout games. From whacky new adventures, updated graphics & animations, optional NVR installation, new world spaces & world additive, all the way to an older style UI, you will be able to experience both New Vegas & The Original Fallout Experience in a new fashion!",
+    "description": "Nostalgia is an original Fallout New Vegas  experience heavily inspired by the wacky nature of the original interplay Fallout games. From whacky new adventures, updated graphics \u0026 animations, optional NVR installation, new world spaces \u0026 world additive, all the way to an older style UI, you will be able to experience both New Vegas \u0026 The Original Fallout Experience in a new fashion!",
     "author": "McTiddies4Lunch",
     "maintainers": [
       "github/McTiddies4Lunch"
@@ -19,19 +19,21 @@
     "links": {
       "image": "https://cdn.discordapp.com/attachments/610934257182965779/1081810174412603543/nost.png",
       "readme": "https://github.com/McTiddies4Lunch/Nostalgia/wiki",
-      "download": "https://authored-files.wabbajack.org/Nostalgia.wabbajack_1b458f32-0860-4660-a5d6-c04d32ecec23",
+      "download": "https://authored-files.wabbajack.org/Nostalgia.wabbajack_6875e88a-3859-44ee-864a-5b877436bb22",
       "machineURL": "nostalgia",
       "discordURL": "https://discord.gg/Mu3RQbzxyz"
     },
     "download_metadata": {
-      "Hash": "lum7/EgyH2M=",
-      "Size": 58741853,
+      "Hash": "vxkM/B+2dK4=",
+      "Size": 60395180,
       "NumberOfArchives": 902,
-      "SizeOfArchives": 34061944176,
-      "NumberOfInstalledFiles": 57864,
-      "SizeOfInstalledFiles": 57203125506
+      "SizeOfArchives": 34051171803,
+      "NumberOfInstalledFiles": 56377,
+      "SizeOfInstalledFiles": 56818906332
     },
-    "version": "0.6"
+    "version": "0.7",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2023-03-06T15:50:29.1446465Z",
+    "repositoryName": ""
   }
 ]
-
