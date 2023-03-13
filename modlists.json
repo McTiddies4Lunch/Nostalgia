@@ -19,21 +19,21 @@
     "links": {
       "image": "https://cdn.discordapp.com/attachments/610934257182965779/1081810174412603543/nost.png",
       "readme": "https://github.com/McTiddies4Lunch/Nostalgia/wiki",
-      "download": "https://authored-files.wabbajack.org/Nostalgia.wabbajack_accf16d4-1a82-44ac-b310-e6dfd2d30740",
+      "download": "https://authored-files.wabbajack.org/Nostalgia.wabbajack_9bc1d95c-44c2-4656-8dc5-100585a89388",
       "machineURL": "nostalgia",
       "discordURL": "https://discord.gg/Mu3RQbzxyz"
     },
     "download_metadata": {
-      "Hash": "CR4B3Yw9CxE=",
-      "Size": 54619159,
-      "NumberOfArchives": 905,
-      "SizeOfArchives": 34278365112,
-      "NumberOfInstalledFiles": 55930,
-      "SizeOfInstalledFiles": 57429891523
+      "Hash": "sDcuFSjlT4o=",
+      "Size": 55977196,
+      "NumberOfArchives": 907,
+      "SizeOfArchives": 34346008239,
+      "NumberOfInstalledFiles": 55978,
+      "SizeOfInstalledFiles": 57566003360
     },
-    "version": "0.10",
+    "version": "0.11",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-03-10T14:02:16.4159703Z",
+    "dateUpdated": "2023-03-13T23:28:26.2400686Z",
     "repositoryName": ""
   }
 ]
