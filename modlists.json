@@ -19,21 +19,21 @@
     "links": {
       "image": "https://i.gyazo.com/77ca83f04e5daee44d04f151575bc34b.jpg",
       "readme": "https://www.modlists.net/04Nostalgia/Home/",
-      "download": "https://authored-files.wabbajack.org/Nostalgia.wabbajack_a93bacd2-847e-4090-9564-6a1fa5e113a7",
+      "download": "https://authored-files.wabbajack.org/Nostalgia.wabbajack_0e1c39c0-bc48-4d43-8747-c7c6a4935371",
       "machineURL": "nostalgia",
       "discordURL": "https://discord.gg/Mu3RQbzxyz"
     },
     "download_metadata": {
-      "Hash": "EzIPjOTclls=",
-      "Size": 56016342,
-      "NumberOfArchives": 911,
-      "SizeOfArchives": 36596286932,
-      "NumberOfInstalledFiles": 59047,
-      "SizeOfInstalledFiles": 57359196097
+      "Hash": "jpg7NWaaWRw=",
+      "Size": 61771655,
+      "NumberOfArchives": 918,
+      "SizeOfArchives": 37293196467,
+      "NumberOfInstalledFiles": 62502,
+      "SizeOfInstalledFiles": 59004311130
     },
-    "version": "0.13",
+    "version": "1.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-05-05T21:17:16.6455955Z",
+    "dateUpdated": "2023-05-17T15:58:54.6055339Z",
     "repositoryName": ""
   }
 ]
