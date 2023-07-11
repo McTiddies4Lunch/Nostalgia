@@ -19,21 +19,21 @@
     "links": {
       "image": "https://i.gyazo.com/77ca83f04e5daee44d04f151575bc34b.jpg",
       "readme": "https://www.modlists.net/04Nostalgia/Installation%20Guide/1-Before-We-Begin/",
-      "download": "https://authored-files.wabbajack.org/Nostalgia.wabbajack_6ef46797-fb87-4f30-96ab-6f6d6c399e4f",
+      "download": "https://authored-files.wabbajack.org/Nostalgia.wabbajack_c88c2a57-4119-43e6-b9f4-5300757ba8ad",
       "machineURL": "nostalgia",
       "discordURL": "https://discord.gg/mr-new-vegas-415287319982112768"
     },
     "download_metadata": {
-      "Hash": "mkidYJ99P9I=",
-      "Size": 2263569765,
-      "NumberOfArchives": 915,
-      "SizeOfArchives": 37095562326,
-      "NumberOfInstalledFiles": 59282,
-      "SizeOfInstalledFiles": 59403664785
+      "Hash": "22E0V4DOsbc=",
+      "Size": 2263571576,
+      "NumberOfArchives": 916,
+      "SizeOfArchives": 37099641830,
+      "NumberOfInstalledFiles": 59303,
+      "SizeOfInstalledFiles": 59410894256
     },
     "version": "1.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-07-11T18:30:31.5001487Z",
+    "dateUpdated": "2023-07-11T20:00:25.0994384Z",
     "repositoryName": ""
   }
 ]
