@@ -20,21 +20,21 @@
     "links": {
       "image": "https://i.gyazo.com/77ca83f04e5daee44d04f151575bc34b.jpg",
       "readme": "https://www.modlists.net/04Nostalgia/Home/",
-      "download": "https://authored-files.wabbajack.org/Nostalgia.wabbajack_6b8667b9-cd96-4da8-a6ff-38ebfd592ef0",
+      "download": "https://authored-files.wabbajack.org/Nostalgia.wabbajack_275c0faf-ea01-408e-abe3-a1a81e5f30b5",
       "machineURL": "nostalgia",
       "discordURL": "https://discord.gg/mr-new-vegas-415287319982112768"
     },
     "download_metadata": {
-      "Hash": "7vH/MVMSJKk=",
-      "Size": 1203443469,
+      "Hash": "FKMZpP+Ko3E=",
+      "Size": 1203442772,
       "NumberOfArchives": 1008,
       "SizeOfArchives": 36581951780,
       "NumberOfInstalledFiles": 74407,
-      "SizeOfInstalledFiles": 57190061144
+      "SizeOfInstalledFiles": 57190073465
     },
     "version": "2.5.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-12-01T18:14:44.3999937Z",
+    "dateUpdated": "2023-12-01T21:10:54.6211587Z",
     "repositoryName": ""
   }
 ]
