@@ -4,7 +4,8 @@
     "description": "Nostalgia is an original Fallout New Vegas experience heavily inspired by the whacky nature of the original interplay Fallout games. From whacky new adventures, updated graphics \u0026 animations, optional NVR installation, new world spaces \u0026 world additive, all the way to an older style UI, you will be able to experience both New Vegas \u0026 The Original Fallout Experience in a new fashion!",
     "author": "McTiddies4Lunch",
     "maintainers": [
-      "github/McTiddies4Lunch"
+      "github/McTiddies4Lunch",
+      "https://github.com/clayby99"
     ],
     "game": "falloutnewvegas",
     "official": false,
